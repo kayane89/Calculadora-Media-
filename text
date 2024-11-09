@@ -1,0 +1,7 @@
+Faça uma página com HTML, CSS e JavaScript que receba três notas por meio de três entradas.
+
+Além das entradas deve haver um botão que ao ser clicado, em um parágrafo, seja escrito a média do aluno e os campos fiquem limpos.
+
+Se o aluno tirar uma média de 0 a 4, deve receber o status de reprovado.
+Se o aluno tiver uma média entre 4 e 6.9 ele deve receber o status de recitação.
+Se o aluno tiver uma nota acima de 7 o status deve ser aprovado.
